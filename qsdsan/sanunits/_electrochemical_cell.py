@@ -88,6 +88,7 @@ class ElectrochemicalCell(SanUnit):
     >>> # Simulate and look at the results
     >>> U1.simulate()
     >>> U1.diagram()
+    <IPython.core.display.Image object>
     >>> U1.show()
     ElectrochemicalCell: U1
     ins...
